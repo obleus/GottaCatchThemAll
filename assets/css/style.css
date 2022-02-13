@@ -6,20 +6,10 @@ body {
             #89C893 60%, #89C893 80%,
             #F6CF57 80%);
     }
-    
-.search-pokemon {
-        padding: 6px;
-        margin: 59px;
-        border-radius: 16px;
-    }
 
 input {
     text-align: center;
 }
 
-#submit {
-    border-radius: 10px;
-}
 
     
-
